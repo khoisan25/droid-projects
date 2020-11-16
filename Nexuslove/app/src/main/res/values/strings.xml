@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nexuslove</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SecondActivity">Goto Secondactivity</string>
+    <string name="info1">First activity:</string>
+    <string name="Firstactivity">Goto FirstActivity</string>
+    <string name="info2">Second Activity</string>
+    <string name="title_activity_activity2">Activity2</string>
+</resources>
